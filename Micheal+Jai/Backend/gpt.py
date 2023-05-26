@@ -1,7 +1,7 @@
 print(";lsdkjsdpfljdspfkj")
-# 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
+# your token
 import openai
-openai.api_key = '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'
+openai.api_key = 'your_token'
 
 prompt = "Make a joke about farting in class"
 
