@@ -1,7 +1,7 @@
-#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
+#your-key
 import openai
 
-openai.api_key = "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"
+openai.api_key = "your-key"
 
 # Set up the model and prompt
 model_engine = "text-davinci-003"
