@@ -1,4 +1,3 @@
-print(";lsdkjsdpfljdspfkj")
 # your token
 import openai
 openai.api_key = 'your_token'
