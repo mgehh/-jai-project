@@ -1,6 +1,6 @@
-# your token
+# your key
 import openai
-openai.api_key = 'your_token'
+openai.api_key = 'your_key'
 
 prompt = "Make a joke about farting in class"
 
