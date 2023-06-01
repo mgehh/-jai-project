@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = "your key"
 file = open("Backend/code.txt", "r")
 file_contents = file.read()  # Read the contents of the file
 
